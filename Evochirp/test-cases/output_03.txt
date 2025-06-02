@@ -1,0 +1,4 @@
+Sparrow Gen 0: D T C T
+Sparrow Gen 1: D T T
+Sparrow Gen 2: D T T T
+Sparrow Gen 3: D-T C C C
